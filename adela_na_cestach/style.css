@@ -1,0 +1,87 @@
+body {
+    color:#282425;
+    background-color: #fff1e6;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;    
+}
+
+h1,
+h2,
+h3,
+a {
+    color:#756158;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+a {
+    font-style: italic;
+}
+
+.fotogalerie,
+.kontakt {
+    background-color: #f9e3d0;
+}
+
+.paticka {
+    background-color: #282425;
+    color: white;
+    text-align: center;
+}
+
+
+.foto-omne {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.fotogalerie img {
+    width: 32%;
+    border: 2px solid #756158;
+    border-radius: 10px;
+}
+
+.foto-pruvodce {
+    width: 350px;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.foto-kontakt {
+    width: 350px;
+    border-radius: 50px 0px 50px 50px;
+}
+
+
+th {
+    text-align: left;
+}
+
+.cena {
+    text-align: right;
+}
+
+.tabulka td { 
+    border-bottom: 1px solid #282425;
+    line-height: 2;
+}
